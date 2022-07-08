@@ -6,6 +6,6 @@
 
 
 - 🔭 I’m currently working in training my programming skills
-- 🌱 I’m currently learning HTML/CSS, Python for data science
+- 🌱 I’m currently learning HTML/CSS/JS, Python for data science
 
 
